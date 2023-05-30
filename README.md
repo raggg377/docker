@@ -9,6 +9,7 @@
 
 ##### Basic Features:
 - Registeration: Users need to register first. There are different registerations for vendors and customers.
+![Screenshot (8)](https://github.com/raggg377/docker/assets/93575844/6700906d-07f2-4951-8bf6-8dd11bc091f0)
 - Authentication: Vendors and customers need to re-login by verifying. This was done using Django's in-built authentication system.
 
 ##### Vendor-side Features:
@@ -28,6 +29,7 @@ Vendors can:
 
 The web-app has a page for each customer where all the items are listed kinda like a 'home-page'
 Customers can:
+
 - order from **multiple vendors** at a time 
 - order **multiple items**
 - order upto *10 units* of the same item
