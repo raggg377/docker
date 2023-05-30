@@ -1,7 +1,9 @@
 # E-Commerce Web Application
 
 > A basic online marketplace. 
+
 > A web app on which vendors can register themselves and add items they want to sell.
+
 > Users can add money  and order these items.
 
 
@@ -65,7 +67,9 @@ I used a number of tech-stacks to make this project successful
 
 ## Building and Docker
 >Deployment of the project by creating the docker file, with entry point , env variable and ngnix config is done . 
+
 >The server in production is successfully running on local server
+
 >Credits: https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
 
 ## License
