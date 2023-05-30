@@ -9,7 +9,7 @@
 
 ## Features
 
-##### Basic Features:
+#### Basic Features:
 - Registeration: Users need to register first. There are different registerations for vendors and customers.
 
 ![Screenshot (8)](https://github.com/raggg377/docker/assets/93575844/6700906d-07f2-4951-8bf6-8dd11bc091f0)
@@ -18,7 +18,7 @@
 
 ![Screenshot (9)](https://github.com/raggg377/docker/assets/93575844/aa1ca685-d2c5-4e84-bbf4-f30e6cc46dd2)
 
-##### Vendor-side Features:
+#### Vendor-side Features:
 
 The web-app has a page for each vendor where his items are listed, sort of like a 'vendor profile'.
 
@@ -35,7 +35,7 @@ Vendors can:
 - *generate a CSV/Excel report* of all his sales till now
 - *show discounts* on items
 
-##### Customer-side Features:
+#### Customer-side Features:
 
 The web-app has a page for each customer where all the items are listed kinda like a 'home-page'
 
