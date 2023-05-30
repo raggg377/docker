@@ -55,6 +55,30 @@ Customers can:
 - view all *details of a previous order* on clicking it in the previous orders section
 - directly **move an item from the wishlist to the cart**
 
+## Images of special features
+
+1. Mail
+
+![Screenshot (25)](https://github.com/raggg377/docker/assets/93575844/f0944aab-bb3f-443d-920e-bddb6de8c28f)
+
+
+2. CSV Files
+
+![Screenshot (23)](https://github.com/raggg377/docker/assets/93575844/85913467-12a6-4e43-b85d-377b04f7ed6b)
+
+
+3. Database
+
+![Screenshot (24)](https://github.com/raggg377/docker/assets/93575844/d0653248-6ce1-4da2-8082-3096e6dc0de5)
+
+
+## Implementation Video
+
+>These 2 videos show the implementation of all the features written above:
+
+>https://drive.google.com/file/d/1rBffHnjcj8cOjaruZFVgyKWXLI6kDZ77/view?usp=sharing
+
+>https://drive.google.com/file/d/1rA6YQnBbrIUFSd6MtYm1OSUqLe_iPf-R/view?usp=sharing
 ## Tech
 
 I used a number of tech-stacks to make this project successful
