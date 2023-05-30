@@ -9,12 +9,20 @@
 
 ##### Basic Features:
 - Registeration: Users need to register first. There are different registerations for vendors and customers.
+
 ![Screenshot (8)](https://github.com/raggg377/docker/assets/93575844/6700906d-07f2-4951-8bf6-8dd11bc091f0)
+
 - Authentication: Vendors and customers need to re-login by verifying. This was done using Django's in-built authentication system.
+
+![Screenshot (9)](https://github.com/raggg377/docker/assets/93575844/aa1ca685-d2c5-4e84-bbf4-f30e6cc46dd2)
 
 ##### Vendor-side Features:
 
 The web-app has a page for each vendor where his items are listed, sort of like a 'vendor profile'.
+
+![Screenshot (12)](https://github.com/raggg377/docker/assets/93575844/76590e7b-8511-4870-8a65-5a81a8e49096)
+
+
 Vendors can:
 - Add **multiple items** 
 - Items can have **many units** (specified by the vendor)
@@ -28,6 +36,10 @@ Vendors can:
 ##### Customer-side Features:
 
 The web-app has a page for each customer where all the items are listed kinda like a 'home-page'
+
+![Screenshot (15)](https://github.com/raggg377/docker/assets/93575844/2e5d37af-0871-4495-b294-7ffb8ebe9d2c)
+
+
 Customers can:
 
 - order from **multiple vendors** at a time 
@@ -49,3 +61,13 @@ I used a number of tech-stacks to make this project successful
 - [Django Allauth](https://www.section.io/engineering-education/django-google-oauth/) - for  authentication 
 - [Mailjet](https://www.mailjet.com/) - to send mails to vendors
 - [Postgresql](https://www.postgresql.org/) - to create a database for the web application
+
+
+## Building and Docker
+>Deployment of the project by creating the docker file, with entry point , env variable and ngnix config is done . 
+>The server in production is successfully running on local server
+>Credits: https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
+
+## License
+
+MIT
